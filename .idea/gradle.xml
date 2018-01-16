@@ -5,8 +5,17 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/InstrumentTest" />
+            <option value="$PROJECT_DIR$/StenoKeyboard" />
+            <option value="$PROJECT_DIR$/StenoKeyboardTests" />
+            <option value="$PROJECT_DIR$/Tests" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
 </project>
-
